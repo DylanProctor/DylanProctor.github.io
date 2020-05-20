@@ -12,10 +12,7 @@ author: Dylan Proctor
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Joe Rogan's Channel: "https://www.youtube.com/channel/UCzQUP1qoWDoEbmsQxvdjxgQ"
-  r/Investing: "https://www.reddit.com/r/investing/"
+  Projects: "aboutme"
 
 # --- Logo --- #
 
